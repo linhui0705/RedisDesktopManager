@@ -1,2 +1,2 @@
 # RedisDesktopManager
-Just to learn to compile and package Redis Desktop Manager.
+Just learn how to compile and package Redis Desktop Manager.
